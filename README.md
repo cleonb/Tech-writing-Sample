@@ -1,1 +1,1 @@
-# Tech writing Sample
+# Tech Writing Sample
